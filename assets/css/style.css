@@ -17724,3 +17724,8 @@ ul li {
   border-radius: 8px;
 }
 
+
+
+.action-bar.action-bar--visible.action-bar--fixed.branding-action-bar {
+  display: none!important;
+}
